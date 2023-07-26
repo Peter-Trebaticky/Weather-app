@@ -102,7 +102,6 @@ body {
   margin: 0 auto;
   left: 0;
   right: 0;
-  
 }
 #app.warm {
   background-image: url('./assets/warm.jpg');
@@ -194,6 +193,7 @@ main{
   position: center;
 }
 
+
 @media screen and (max-width: 768px){
   #app{
     border-radius: 0px;
@@ -207,6 +207,5 @@ main{
   }
 
 }
-
 
 </style>
