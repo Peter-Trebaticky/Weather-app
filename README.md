@@ -1,4 +1,6 @@
-# weather
+# Weather app
+
+![](demo.png)
 
 ## Project setup
 ```
